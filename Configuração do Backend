@@ -1,0 +1,4 @@
+mkdir shopping-cart-backend
+cd shopping-cart-backend
+npm init -y
+npm install express mongoose bcryptjs jsonwebtoken cors dotenv
